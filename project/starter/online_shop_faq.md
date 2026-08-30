@@ -121,3 +121,13 @@ We use your data to process orders, provide support, prevent fraud, and improve 
 
 32) Can I request access or deletion of my data?
 Yes. Contact support with your request. We’ll handle it according to applicable privacy laws and may need to verify your identity.
+
+⸻
+
+Additional FAQ
+
+33) Are items in my cart reserved for me?
+No. Adding an item to your cart does not reserve it. Another customer may purchase the item before you complete your order.
+
+34) Can I pay for my order later?
+Orders must be paid for when they are placed. Adding an item to your cart does not guarantee that it will still be available later.

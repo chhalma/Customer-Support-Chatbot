@@ -5,3 +5,9 @@ demo_guides/*
 scripts/*
 agentcore_config.json
 output_eval_dataset.jsonl
+
+# Python virtual environment
+**/venv/
+**/.venv/
+__pycache__/
+*.pyc
