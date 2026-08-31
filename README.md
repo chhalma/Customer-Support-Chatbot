@@ -11,7 +11,7 @@ This repo is the source of truth for the course project **"Customer Support Chat
 The `project` folder contains all files and instructions necessary for the project:
 
 * `project/README.md` — the full project instructions (setup, building the harness, testing, cleanup).
-* `project/starter/` — the files students start from:
+* `project/starter/` 
   * CloudFormation templates for the bug-report tool (Lambda + DynamoDB + IAM roles) and the testing resources (S3 + evaluation role)
   * Python setup scripts for the AgentCore resources (`setup_gateway.py`, `create_harness.py`), a chat client (`chat.py`), and cleanup (`cleanup_agentcore.py`)
   * `system_prompt.txt` — the student's main deliverable
