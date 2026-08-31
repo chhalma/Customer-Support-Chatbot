@@ -28,3 +28,8 @@ The reference solution, rubric, and detailed docs (`docs/tools-setup.md`, `docs/
 5. Clean up all resources.
 
 All work happens in **us-east-1**, with the model pinned to `us.amazon.nova-pro-v1:0`.
+
+
+### Testing and Evaluation – Observation
+
+The automated test suite covered the three required customer-support paths: bug reports, FAQ/platform questions, and other requests. The generated evaluation dataset was uploaded to Amazon S3 and evaluated using Amazon Bedrock Evaluations with LLM-as-a-judge. The evaluation results showed a correctness score close to 1, indicating that the chatbot generally produced responses consistent with the expected behaviour defined for each path.
